@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/flat">
+        <file>outlines/oCopy.png</file>
+        <file>outlines/oCut.png</file>
+        <file>outlines/oNew.png</file>
+        <file>outlines/oOpen.png</file>
+        <file>outlines/oPaste.png</file>
+        <file>outlines/oSave.png</file>
+    </qresource>
+</RCC>
